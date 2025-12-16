@@ -1,0 +1,12 @@
+Tue, Dec 16, 2025  2:49:58 PM - VARNING: Processen 'firefox' körs inte.
+Tue, Dec 16, 2025  2:49:59 PM - VARNING: Processen 'svchost' körs inte.
+Tue, Dec 16, 2025  2:49:59 PM - VARNING: Processen 'lsass' körs inte.
+Tue, Dec 16, 2025  2:49:59 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  2:51:47 PM - Processen 'firefox' körs.
+Tue, Dec 16, 2025  2:51:48 PM - Processen 'svchost' körs.
+Tue, Dec 16, 2025  2:51:48 PM - Processen 'lsass' körs.
+Tue, Dec 16, 2025  2:51:48 PM - Kontroller slutförda.
+Tue, Dec 16, 2025  2:55:04 PM - Processen 'firefox' körs.
+Tue, Dec 16, 2025  2:55:04 PM - Processen 'svchost' körs.
+Tue, Dec 16, 2025  2:55:04 PM - Processen 'lsass' körs.
+Tue, Dec 16, 2025  2:55:04 PM - Kontroller slutförda.
